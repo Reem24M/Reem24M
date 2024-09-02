@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Reem Mohamed
 - 👀 I’m interested in React
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me ream2004523farouk@gmail.com
 - ⚡ Fun fact: i so in love with cofee😊
 
 <!---
