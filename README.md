@@ -1,9 +1,40 @@
-- 👋 Hi, I’m Reem Mohamed
-- 👀 I’m interested in React
-- 🌱 I’m currently learning React.js
-- ⚡ Fun fact: i so in love with cofee😊
+# Hi there, I'm Reem Mohamed 👋
 
-<!---
-Reem24M/Reem24M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Full Stack Developer | React • Next.js • Node.js
+
+Passionate about building modern, scalable, and user-friendly web applications with clean design and efficient code.
+
+🚀 Currently working with:
+
+* React.js
+* Next.js
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs & Authentication
+
+💡 I enjoy creating full stack applications from responsive frontend interfaces to powerful backend systems.
+
+## Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* TypeScript
+* React.js
+* Next.js
+* Node.js
+* Express.js
+* MongoDB
+* Git & GitHub
+
+## Current Goals
+
+* Building real-world full stack projects
+* Improving backend architecture skills
+* Learning advanced web technologies
+* Preparing for professional remote opportunities
+
+📫 Open to collaboration, learning, and new opportunities.
+
+☕ Powered by coffee and curiosity.
